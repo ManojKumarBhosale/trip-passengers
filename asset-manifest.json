@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ManojKumarBhosale/trip-passengers/static/css/main.d1b05096.chunk.css",
+    "main.js": "/ManojKumarBhosale/trip-passengers/static/js/main.d51c4980.chunk.js",
+    "main.js.map": "/ManojKumarBhosale/trip-passengers/static/js/main.d51c4980.chunk.js.map",
+    "runtime-main.js": "/ManojKumarBhosale/trip-passengers/static/js/runtime-main.f1529dfd.js",
+    "runtime-main.js.map": "/ManojKumarBhosale/trip-passengers/static/js/runtime-main.f1529dfd.js.map",
+    "static/js/2.bc9b0647.chunk.js": "/ManojKumarBhosale/trip-passengers/static/js/2.bc9b0647.chunk.js",
+    "static/js/2.bc9b0647.chunk.js.map": "/ManojKumarBhosale/trip-passengers/static/js/2.bc9b0647.chunk.js.map",
+    "index.html": "/ManojKumarBhosale/trip-passengers/index.html",
+    "precache-manifest.7419a00c37f4d1e0b2d19c066e37fa7e.js": "/ManojKumarBhosale/trip-passengers/precache-manifest.7419a00c37f4d1e0b2d19c066e37fa7e.js",
+    "service-worker.js": "/ManojKumarBhosale/trip-passengers/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/ManojKumarBhosale/trip-passengers/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.bc9b0647.chunk.js.LICENSE": "/ManojKumarBhosale/trip-passengers/static/js/2.bc9b0647.chunk.js.LICENSE",
+    "static/media/logo.svg": "/ManojKumarBhosale/trip-passengers/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1529dfd.js",
+    "static/js/2.bc9b0647.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.d51c4980.chunk.js"
+  ]
+}
