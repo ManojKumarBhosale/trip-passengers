@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/trip-passengers/static/css/main.d1b05096.chunk.css",
-    "main.js": "/trip-passengers/static/js/main.cf21b3cd.chunk.js",
-    "main.js.map": "/trip-passengers/static/js/main.cf21b3cd.chunk.js.map",
+    "main.js": "/trip-passengers/static/js/main.190a21a8.chunk.js",
+    "main.js.map": "/trip-passengers/static/js/main.190a21a8.chunk.js.map",
     "runtime-main.js": "/trip-passengers/static/js/runtime-main.78974891.js",
     "runtime-main.js.map": "/trip-passengers/static/js/runtime-main.78974891.js.map",
     "static/js/2.bc9b0647.chunk.js": "/trip-passengers/static/js/2.bc9b0647.chunk.js",
     "static/js/2.bc9b0647.chunk.js.map": "/trip-passengers/static/js/2.bc9b0647.chunk.js.map",
     "index.html": "/trip-passengers/index.html",
-    "precache-manifest.6fcdc0b8275607662d0d511e95cf3ccd.js": "/trip-passengers/precache-manifest.6fcdc0b8275607662d0d511e95cf3ccd.js",
+    "precache-manifest.f6ffaf635d9a3c41a3f01ba57a7cd2ee.js": "/trip-passengers/precache-manifest.f6ffaf635d9a3c41a3f01ba57a7cd2ee.js",
     "service-worker.js": "/trip-passengers/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/trip-passengers/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.bc9b0647.chunk.js.LICENSE": "/trip-passengers/static/js/2.bc9b0647.chunk.js.LICENSE",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.78974891.js",
     "static/js/2.bc9b0647.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.cf21b3cd.chunk.js"
+    "static/js/main.190a21a8.chunk.js"
   ]
 }
