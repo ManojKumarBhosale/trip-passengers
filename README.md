@@ -1,2 +1,2 @@
 # trip-passengers
-App to passenger details for a trip
+App to add passenger details for a trip
